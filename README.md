@@ -34,7 +34,7 @@ The extracted tree row point cloud is finally utilized to fit the navigation lin
   <img src="img/Navigation_line_fitting.gif" alt="Navigation line fitting" width="80%"/>
 </p>
 
-# Detailed information can be seen in this paper：
+## Detailed information can be seen in this paper：
 Zhou, Y.; Wang, X.; Wang, Z.; Ye, Y.; Zhu, F.; Yu, K.; Zhao, Y. Rolling 2D Lidar-Based Navigation Line Extraction Method for Modern Orchard Automation. Agronomy 2025, 15, 816. https://doi.org/10.3390/agronomy15040816
 
 ## Author
