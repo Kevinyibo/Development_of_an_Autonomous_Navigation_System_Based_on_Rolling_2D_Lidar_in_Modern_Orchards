@@ -27,8 +27,15 @@ We used a point cloud segmentation strategy to extract the point cloud data of t
   <img src="img/treerow_extraction.jpg" alt="tree row extraction" width="80%"/>
 </p>
 
+### Trunk 3D Point Cloud extraction
+Local geometrical features are utilized to extract the fruit tree trunk point cloud, the results are as follows:
+
+<p align="center">
+  <img src="img/trunk_point_extraction.png" alt="trunk point extraction" width="80%"/>
+</p>
+
 ### Navigation Line Fitting
-The extracted tree row point cloud is finally utilized to fit the navigation line for the robot autonomous guidance, the results are as follows:
+The extracted trunk point cloud is finally utilized to fit the navigation line for the robot autonomous guidance, the results are as follows:
 
 <p align="center">
   <img src="img/Navigation_line_fitting.gif" alt="Navigation line fitting" width="80%"/>
