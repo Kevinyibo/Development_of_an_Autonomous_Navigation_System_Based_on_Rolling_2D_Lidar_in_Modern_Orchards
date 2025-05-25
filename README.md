@@ -41,6 +41,13 @@ The extracted trunk point cloud is finally utilized to fit the navigation line f
   <img src="img/navigation_line_detection.gif" alt="Navigation line fitting" width="80%"/>
 </p>
 
+### Path tracking
+The pure pursuit controller is implemented to guide the robot along the target path for autonomous navigation. Field test results are as follows:
+
+<p align="center">
+  <img src="img/autonomous_navigation.gif" width="80%"/>
+</p>
+
 ## Detailed information can be seen in this paper：
 Zhou, Y.; Wang, X.; Wang, Z.; Ye, Y.; Zhu, F.; Yu, K.; Zhao, Y. Rolling 2D Lidar-Based Navigation Line Extraction Method for Modern Orchard Automation. Agronomy 2025, 15, 816. https://doi.org/10.3390/agronomy15040816
 
