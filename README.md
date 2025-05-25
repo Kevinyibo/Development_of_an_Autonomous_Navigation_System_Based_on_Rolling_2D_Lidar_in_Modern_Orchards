@@ -35,10 +35,10 @@ Local geometrical features are utilized to extract the fruit tree trunk point cl
 </p>
 
 ### Navigation Line Fitting
-The extracted trunk point cloud is finally utilized to fit the navigation line for the robot autonomous guidance, the results are as follows:
+The extracted trunk point cloud is finally utilized to fit the navigation line for the robot autonomous guidance, the results are as follows (The white point cloud represents extracted tree trunk features. The blue and red arrows indicate the left and right tree row lines, respectively, while the white center line denotes the navigation path):
 
 <p align="center">
-  <img src="img/Navigation_line_fitting.gif" alt="Navigation line fitting" width="80%"/>
+  <img src="img/navigation_line_detection.gif" alt="Navigation line fitting" width="80%"/>
 </p>
 
 ## Detailed information can be seen in this paper：
